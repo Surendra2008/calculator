@@ -1,2 +1,2 @@
 # calculator
-my second project
+my second project in github
